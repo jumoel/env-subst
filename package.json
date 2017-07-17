@@ -1,0 +1,19 @@
+{
+	"name": "env-subst",
+	"version": "1.0.0",
+	"description": "Substitute variables in strings or files with environment variables",
+	"main": "index.js",
+	"bin": "cli.js",
+	"repository": "https://www.github.com/jumoel/env-subst",
+	"author": "Julian Møller <git@julianmoeller.dk>",
+	"license": "MIT",
+	"engines": {
+		"node": ">=6.0.0"
+	},
+	"devDependencies": {
+		"eslint": "^4.2.0",
+		"eslint-config-prettier": "^2.3.0",
+		"eslint-plugin-prettier": "^2.1.2",
+		"prettier": "^1.5.3"
+	}
+}
