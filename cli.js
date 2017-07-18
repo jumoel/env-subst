@@ -2,7 +2,7 @@
 
 const fs = require('fs');
 
-const envsubst = require('./main.js');
+const envsubst = require('./index.js');
 
 if (process.argv.length < 3) {
 	console.error('Usage: env-subst inputFile');
