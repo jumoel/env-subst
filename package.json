@@ -1,6 +1,6 @@
 {
 	"name": "env-subst",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Substitute variables in strings or files with environment variables. Like envsubst from gettext.",
 	"keywords": [
 		"envsubst",
