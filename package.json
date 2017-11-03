@@ -1,7 +1,8 @@
 {
 	"name": "env-subst",
 	"version": "1.0.1",
-	"description": "Substitute variables in strings or files with environment variables",
+	"description": "Substitute variables in strings or files with environment variables. Like envsubst from gettext.",
+	"keywords": ["envsubst", "env-subst", "envsub", "environment", "substitution"],
 	"main": "index.js",
 	"bin": "cli.js",
 	"repository": "https://www.github.com/jumoel/env-subst",
